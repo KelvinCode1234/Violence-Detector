@@ -5,7 +5,7 @@ An AI-powered web application designed to detect violence in images. Leveraging 
 ## 🌐 Live Demo
 
 Experience the application in action:  
-👉 [violence-detector-plum.vercel.app](https://violence-detector-plum.vercel.app)
+👉 [violence-detector-plum.vercel.app](https://kelvincode1234.github.io/Violence-Detector/)
 
 ## 🚀 Features
 
